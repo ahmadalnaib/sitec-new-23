@@ -1,0 +1,48 @@
+.same {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16/9;
+  
+} 
+
+.serviceboximg{
+    width: 391px;
+    aspect-ratio: auto 391 / 220;
+    height: 220px;
+    margin: 1rem;
+    padding: 1rem;
+  }
+  .button:active,
+.button.is-checked {
+  background-color: #28F;
+}
+.button.is-checked {
+    color: white;
+    text-shadow: 0 -1px hsla(0, 0%, 0%, 0.8);
+  }
+.bg-site{
+    background: #ffcc00;
+}
+.btn-sitec{
+    background: #ffcc00;
+    text-decoration: none;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    color: #000;
+    margin-top: 1rem;
+    font-weight: bolder;
+}
+
+.sitec-bg-img img {
+    display: block;
+    width: 100%;
+    height: 26.25vw;
+    min-height: 400px;
+    max-height: 600px;
+    -o-object-fit: cover;
+    object-fit: contain;
+}
+
+.m-ttt{
+    margin-top: 10rem;
+}
